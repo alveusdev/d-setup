@@ -1,0 +1,9 @@
+[submodule "dformat"]
+	path = dformat
+	url = https://github.com/dlang-community/dfmt.git
+[submodule "dcd"]
+	path = dcd
+	url = https://github.com/dlang-community/DCD.git
+[submodule "dscanner"]
+	path = dscanner
+	url = https://github.com/dlang-community/D-Scanner.git
